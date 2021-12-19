@@ -1,7 +1,7 @@
 ### Hello!! Seja Bem vindo ao meu perfil!! ✌️👻👾✌️
 
 
-- 👨🏾‍💻 Analise e Desenvolvimento de Sistemas, P-2/6º ...
+- 👨🏾‍💻 Analise e Desenvolvimento de Sistemas, P-3/6º ...
 - 👨🏾‍💻 Estudando Python, Java, MySQL, Git ...🤯
 - 😄 Pronouns: Ele/Dele.
 <div>
