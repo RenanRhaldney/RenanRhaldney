@@ -2,7 +2,7 @@
 
 
 - 👨🏾‍💻 Analise e Desenvolvimento de Sistemas, P-3/6º ...
-- 👨🏾‍💻 Estudando Python, Java, MySQL, Git ...🤯
+- 👨🏾‍💻 Estudando Python, Java, MySQL, HTML, CSS, Git ...🤯
 - 😄 Pronouns: Ele/Dele.
 <div>
   <a href="https://github.com/RenanRhaldney">
