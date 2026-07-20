@@ -4,7 +4,7 @@ Sou **Renan Rhaldney Mello**, desenvolvedor de software apaixonado por tecnologi
 
 - 🎓 **Formado em Análise e Desenvolvimento de Sistemas – UNIBRA**  
 - 💻 Experiência com **Mendix (low-code)**, **Java**, **JavaScript**, **Python**, **MySQL**, **HTML**, **CSS** e **Git**  
-- 🏢 Atuo como **Software Developer Jr.** na **TrueChange Tecnologia**, desenvolvendo soluções para setores de RH, financeiro e alimentício com Mendix, APIs REST, SOAP e integrações diversas  
+- 🏢 Atuo como **Software Developer** na **TrueChange Tecnologia**, desenvolvendo soluções para setores de RH, financeiro, Logistico, educacional com Java, Mendix, APIs REST, SOAP e integrações diversas  
 - 🤖 Experiência em **RPA** (Dataside), utilizando **Power Automate** e **Python** (Selenium, Pandas, smtplib, etc.)  
 - 📚 Certificações:  
   - Python – FIAP  
